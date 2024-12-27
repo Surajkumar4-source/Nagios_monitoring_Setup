@@ -1,3 +1,8 @@
+
+
+
+ ![Author](https://img.shields.io/badge/Author-Suraj_Kumar_Choudhary-orange)   ![DM me](https://img.shields.io/badge/DM_me-If_any_query-green)
+
 # Nagios Monitoring Overview
 
 
@@ -811,4 +816,13 @@ bash install.sh
 
 <br>
 <br>
+
+<br>
+<br>
+
+
+
+
+**Crafted by**: Suraj Kumar Choudhary | 📩 DM me for further assistance  [csuraj982@gmail.com](mailto:csuraj982@gmail.com)
+
 
