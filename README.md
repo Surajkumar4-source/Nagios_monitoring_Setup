@@ -669,13 +669,7 @@ bash install.sh
 
 
 
-
-
-
-<br>
-<br>
-
-
+![Screenshot from 2024-12-27 13-26-52](https://github.com/user-attachments/assets/ee829316-7f9c-4dce-a34b-339e4574f15c)
 
 
 
@@ -684,20 +678,15 @@ bash install.sh
 <br>
 
 
-
-
-
-
-<br>
-<br>
-
-
+![Screenshot from 2024-12-27 13-26-12](https://github.com/user-attachments/assets/9b2593ca-5e6f-43bf-84b4-989629119d13)
 
 
 <br>
 <br>
 
 
+
+![Screenshot (1)](https://github.com/user-attachments/assets/8f37f1d6-eb10-46ba-8e9d-080236d67768)
 
 
 
@@ -708,9 +697,7 @@ bash install.sh
 <br>
 <br>
 
-
-
-
+![Screenshot 2024-12-27 124536](https://github.com/user-attachments/assets/d33fa0c2-8834-4a78-bd43-a3accd2f959c)
 
 
 
@@ -723,21 +710,86 @@ bash install.sh
 <br>
 
 
+![Screenshot 2024-12-27 125249](https://github.com/user-attachments/assets/5ee2c7a9-b694-482c-a43d-8ad324892855)
+
+
+
+
+<br>
+<br>
+
+
+
+![Screenshot 2024-12-27 125459](https://github.com/user-attachments/assets/c4eb5b38-364e-4e26-a6a7-2d951c8a8926)
+
+
+
+<br>
+<br>
+
+
+![Screenshot 2024-12-27 125648](https://github.com/user-attachments/assets/5a626be3-eec7-4d37-9956-a6a682b39770)
+
+
+<br>
+<br>
+
+
+
+![Screenshot 2024-12-27 125802](https://github.com/user-attachments/assets/440d495f-cc85-4568-b32f-0a97bd1df89b)
 
 
 
 
 
 
+<br>
+<br>
+
+
+***** Apache server Log Config
+
+
+
+![Screenshot from 2024-12-27 12-04-54](https://github.com/user-attachments/assets/86e4914f-7ad5-4218-be63-1ee95666aa4b)
+
+
+
+
+<br>
+<br>
+
+
+![Screenshot from 2024-12-27 13-10-26](https://github.com/user-attachments/assets/b46b61b3-04d1-46dc-9ddb-fd1228d440f7)
+
+
+<br>
+<br>
+
+
+
+
+![Screenshot 2024-12-27 124757](https://github.com/user-attachments/assets/f76534a6-66b4-4354-b050-5f1431c90287)
+
+
+
+<br>
+<br>
+
+
+
+![Screenshot 2024-12-27 125608](https://github.com/user-attachments/assets/74995306-c1f2-4014-8f6d-9732e743ac7a)
+
+
+
+<br>
+<br>
 
 
 
 
 
-
-
-
-
+![Screenshot 2024-12-27 124519](https://github.com/user-attachments/assets/37755875-6e17-4898-8ee3-914a1516e89c)
 
 
 
