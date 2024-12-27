@@ -562,12 +562,165 @@ bash install.sh
 *********Implementation Screenshots***************
 
 
+<br>
+<br>
+
+![Screenshot from 2024-12-27 11-34-46](https://github.com/user-attachments/assets/94e5314e-b7d0-40ec-a9cd-a070b712e531)
+
+
+
+
 
 
 
 <br>
 <br>
 
+
+
+![Screenshot from 2024-12-27 11-36-04](https://github.com/user-attachments/assets/e112c14b-536b-405e-aad1-31c2978830b5)
+
+
+
+
+
+
+
+
+
+
+
+<br>
+<br>
+
+
+
+
+
+
+
+![Screenshot from 2024-12-27 11-36-15](https://github.com/user-attachments/assets/c2dd4d4c-da17-43d8-9d3b-7d29528d6e8a)
+
+
+
+
+
+
+
+<br>
+<br>
+
+
+![Screenshot from 2024-12-27 12-05-17](https://github.com/user-attachments/assets/9b2b02cc-bd21-4dde-88db-29389f43144b)
+
+
+<br>
+<br>
+
+
+
+
+
+![Screenshot from 2024-12-27 11-37-06](https://github.com/user-attachments/assets/d16000c8-466c-4631-b754-d8539b314fa8)
+
+
+
+
+<br>
+<br>
+
+
+
+
+![Screenshot from 2024-12-27 11-37-13](https://github.com/user-attachments/assets/532addfe-92c6-4792-a3b9-349b0a356402)
+
+
+
+
+<br>
+<br>
+
+
+
+![Screenshot from 2024-12-27 11-37-38](https://github.com/user-attachments/assets/0dca60cb-2a55-46ae-adf2-b08d70557fdd)
+
+
+
+<br>
+<br>
+
+
+![Screenshot 2024-12-27 125815](https://github.com/user-attachments/assets/fc2dde2c-6b84-47c6-8d80-e6e8dc9dee45)
+
+
+
+
+<br>
+<br>
+
+
+
+![Screenshot from 2024-12-27 11-37-32](https://github.com/user-attachments/assets/76d19fd5-785e-49ee-87ca-7e98a5961c1d)
+
+<br>
+<br>
+
+
+
+
+
+
+
+
+<br>
+<br>
+
+
+
+
+
+
+<br>
+<br>
+
+
+
+
+
+
+<br>
+<br>
+
+
+
+
+<br>
+<br>
+
+
+
+
+
+
+
+
+
+<br>
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
+<br>
 
 
 
