@@ -823,6 +823,6 @@ bash install.sh
 
 
 
-**Crafted by**: Suraj Kumar Choudhary | 📩 DM me for further assistance  [csuraj982@gmail.com](mailto:csuraj982@gmail.com)
+**Crafted by**: Suraj Kumar Choudhary | 📩 Feel free to DM for help  [csuraj982@gmail.com](mailto:csuraj982@gmail.com)
 
 
