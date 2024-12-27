@@ -120,7 +120,11 @@ Each tool is optimized for specific use cases. Choose based on your infrastructu
 
 
 
-# *****************Nagios Installation**************************
+#   Nagios Installation
+
+
+<br>
+<br>
 
 ## 1. NagiosXI Core on CentOS (Manual Installation):
   - Install prerequisites:
@@ -236,7 +240,7 @@ flling everything out Click Next
 
 
 
-# **********Now setup Client Machines for Monitoring*********************
+#    Now setup Client Machines for Monitoring
 
 
 
@@ -379,7 +383,13 @@ http://<server_address>/nagiosserver
 <br>
 <br>
 
+
+
+
+
 ****************************Nagios LogServer*****************************
+
+
 
 <br>
 <br>
@@ -559,7 +569,7 @@ bash install.sh
 <br>
 
 
-*********Implementation Screenshots***************
+## *********Implementation Screenshots***************
 
 
 <br>
