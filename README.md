@@ -570,7 +570,7 @@ bash install.sh
 <br>
 
 
-## *********Implementation Screenshots***************
+## *********Implementation Screenshots**********
 
 
 <br>
